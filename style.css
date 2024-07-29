@@ -3,7 +3,6 @@ body {
     font-family: 'Inter', sans-serif;
     width: 1440px;
     background-color: #111111;
-    border: 1px solid #ffff;
     color: #ffff;
     display: flex;
     flex-direction: column;
@@ -682,7 +681,6 @@ a {
 
     body {
         text-align: center;
-        border: 2px solid #fff;
         width: 576px;
         padding: 30px 40px 0px 40px;
     }
