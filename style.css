@@ -6,10 +6,6 @@ body {
     color: #ffff;
 }
 
-* {
-    overflow-x: hidden;
-}
-
 header {
     background-image: linear-gradient(to top, #111111, #77777731, #111111);
     padding: 0 100px;
